@@ -12,6 +12,11 @@ Looking forward to reach and help people by sharing my #100DaysOfCode journey on
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3 logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="BootStrap logo" width="50" height="50" /> 
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricodes&hide=ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **YuriCodes/yuricodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
