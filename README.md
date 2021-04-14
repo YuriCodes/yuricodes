@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi 👋, I'm Yuri! 
+
+---
+
+I'm a self-taught developer transitioning from law to coding with knowledge in the tecnologies listed in the toolbox below. 
+
+Looking forward to reach and help people by sharing my #100DaysOfCode journey on twitter.
+
+![Twitter Follow](https://img.shields.io/twitter/follow/yuricodesbot?label=Find%20me%20on%20twitter)
+--- 
+🧰Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3 logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="BootStrap logo" width="50" height="50" /> 
 
 <!--
 **YuriCodes/yuricodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
