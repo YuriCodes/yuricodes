@@ -7,7 +7,7 @@ I'm a self-taught developer transitioning from law to coding with knowledge in t
 
 Looking forward to reach and help people by sharing my #100DaysOfCode journey on twitter.
 
-Join me! ![Twitter URL](https://img.shields.io/twitter/url?label=Find%20me%20on%20Twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Fyuricodesbot)
+Join me! ![Twitter Follow](https://img.shields.io/twitter/follow/yuricodesbot?style=social)
 
 --- 
 
