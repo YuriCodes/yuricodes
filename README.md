@@ -24,6 +24,8 @@ Don't hesitate to contact me! 😄
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricodes&hide=ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
+[!Top Stats](https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=yuricodesbot&theme=<top_stats>)
+
 
 
 <!--
