@@ -5,9 +5,9 @@
 
 I'm a self-taught developer transitioning from law to coding with knowledge in the tecnologies listed in the toolbox below. 
 
-Looking forward to reach and help people by sharing my #100DaysOfCode journey on twitter.
+Looking forward to reach and help people by sharing my #100DaysOfCode journey on [twitter](https://twitter.com/yuricodesbot) and a [JavaScript for Newbies Series](https://yuricodesbot.hashnode.dev/series/javascript-for-newbies) on Hashnode!.
 
-Join me on <a href="https://twitter.com/yuricodesbot"> Twitter </a>  <a href="https://www.youtube.com/channel/UCbZvZKwkAmUcfdQGLUqZSeg" > Youtube </a> <a href="https://www.tiktok.com/@yuricodesbot" > Tiktok </a> <a href="https://yuricodesbot.hashnode.dev/" > Hashnode </a>
+🍉 Join me on <a href="https://twitter.com/yuricodesbot"> Twitter </a>  <a href="https://www.youtube.com/channel/UCbZvZKwkAmUcfdQGLUqZSeg" > Youtube </a> <a href="https://www.tiktok.com/@yuricodesbot" > Tiktok </a> <a href="https://yuricodesbot.hashnode.dev/" > Hashnode </a> ! 
 
 --- 
 
