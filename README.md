@@ -16,8 +16,14 @@ Join me on <a href="https://twitter.com/yuricodesbot"> Twitter </a>
 
 🧰Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3 logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" />  
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3 logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" alt = "Sass logo" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" width="50" height ="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="Jquery logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux logo" width="50" height ="50"/>
 
 
 
