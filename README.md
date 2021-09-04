@@ -19,7 +19,7 @@ Join me on <a href="https://twitter.com/yuricodesbot"> Twitter </a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3 logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" /> 
-<img src="https://github.com/devicons/devicon/master/icons/sass/sass-wordmark.svg" alt = "Sass logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/master/icons/scss/scss-wordmark.svg" alt = "Sass logo" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" width="50" height ="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="Jquery logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50"/>
