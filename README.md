@@ -12,7 +12,7 @@ I'm a self-taught developer from law to coding with knowledge in the tecnologies
 
 Looking forward to reach and help 🐣newbies🐣 by sharing my #100DaysOfCode journey on [Twitter](https://twitter.com/yuricodesbot) and a [JavaScript for Newbies Series](https://yuricodesbot.hashnode.dev/series/javascript-for-newbies) on Hashnode, [my blog](https://yuricodesbot.hashnode.dev/)! 
 
-🍉 Also doing tutorials on [Youtube] (https://www.youtube.com/channel/UCbZvZKwkAmUcfdQGLUqZSeg) and love to share content and tips on [TikTok](https://www.tiktok.com/@yuricodesbot)
+🍉 Also doing tutorials on [Youtube](https://www.youtube.com/channel/UCbZvZKwkAmUcfdQGLUqZSeg) and love to share content and tips on [TikTok](https://www.tiktok.com/@yuricodesbot)
 
 Don't hesitate to contact me! 😄
 --- 
