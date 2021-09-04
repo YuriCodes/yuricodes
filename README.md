@@ -1,14 +1,19 @@
- 
+
+
+
+
+
 ### Hi 👋, I'm Yuri! 
 
 ---
 
-I'm a self-taught developer transitioning from law to coding with knowledge in the tecnologies listed in the toolbox below. 
+I'm a self-taught developer from law to coding with knowledge in the tecnologies listed in the toolbox below. 
 
-Looking forward to reach and help people by sharing my #100DaysOfCode journey on [twitter](https://twitter.com/yuricodesbot) and a [JavaScript for Newbies Series](https://yuricodesbot.hashnode.dev/series/javascript-for-newbies) on Hashnode!.
+Looking forward to reach and help 🐣newbies🐣 by sharing my #100DaysOfCode journey on [Twitter](https://twitter.com/yuricodesbot) and a [JavaScript for Newbies Series](https://yuricodesbot.hashnode.dev/series/javascript-for-newbies) on Hashnode, [my blog](https://yuricodesbot.hashnode.dev/)! 
 
-🍉 Join me on <a href="https://twitter.com/yuricodesbot"> Twitter </a>  <a href="https://www.youtube.com/channel/UCbZvZKwkAmUcfdQGLUqZSeg" > Youtube </a> <a href="https://www.tiktok.com/@yuricodesbot" > Tiktok </a> <a href="https://yuricodesbot.hashnode.dev/" > Hashnode </a> ! 
+🍉 Also doing tutorials on [Youtube] (https://www.youtube.com/channel/UCbZvZKwkAmUcfdQGLUqZSeg) and love to share content and tips on [TikTok](https://www.tiktok.com/@yuricodesbot)
 
+Don't hesitate to contact me! 😄
 --- 
 
 🧰Toolbox
