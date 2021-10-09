@@ -8,7 +8,7 @@
 
 
 ### Hello there, I'm Yuri! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center">  
-<img align='right' src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="150">
 
 ---
 
