@@ -2,9 +2,11 @@
 
 ![Diseño sin título (2)](https://user-images.githubusercontent.com/80093500/132084367-fde82f23-1354-4634-bfc2-9d383aee9e3c.png)
 
-<!-- Start of CuterCounter Code -->
- <img src="https://www.cutercounter.com/hits.php?id=hmxadkkx&nd=4&style=30" border="0" alt="website counter" align = "right">
+
+ <!-- Start of CuterCounter Code -->
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hmxadkkx&nd=4&style=30" border="0" alt="website counter" align = "right"></a>
 <!-- End of CuterCounter Code -->
+
 
 
 ### Hello there, I'm Yuri! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center">  
