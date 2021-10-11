@@ -3,9 +3,6 @@
 ![Diseño sin título (2)](https://user-images.githubusercontent.com/80093500/132084367-fde82f23-1354-4634-bfc2-9d383aee9e3c.png)
 
 
-<!-- Start of WebFreeCounter Code -->
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gmpdoax&nd=4&style=30" border="0" alt="web counter" align="right"></a>
-<!-- End of WebFreeCounter Code -->
 
 
 
