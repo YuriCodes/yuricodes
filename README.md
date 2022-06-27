@@ -11,11 +11,11 @@
 
 ---
 
-I'm a self-taught developer who loves to learn, currently going from a law background into the tech field with knowledge in the tecnologies listed in the toolbox below. 
+I'm a self-taught full-stack developer with focus on front-end who loves to learn, currently going from a law background into the tech field with knowledge in the tecnologies listed in the toolbox below. 
 
 Passionate about design, problem solving and web development.
 
-Looking forward to reach and help 🐣newbies🐣 by sharing my #100DaysOfCode journey on [Twitter](https://twitter.com/yuricodesbot) and writing regular web development and technologies content on Hashnode, [my blog](https://yuricodesbot.hashnode.dev/)! 
+Looking forward to reach and help 🐣newbies🐣 by sharing my journey on [Twitter](https://twitter.com/yuricodesbot) and writing regular web development and technologies content on Hashnode, [my blog](https://yuricodesbot.hashnode.dev/)! 
 
 
 ---
