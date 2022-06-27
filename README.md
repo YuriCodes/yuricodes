@@ -1,8 +1,6 @@
 
 
-![Diseño sin título (2)](https://user-images.githubusercontent.com/80093500/132084367-fde82f23-1354-4634-bfc2-9d383aee9e3c.png)
-
-
+![Brown Illustrated Flowers Twitter Header (1)](https://user-images.githubusercontent.com/80093500/175886008-1954eb44-55be-4773-bf74-3397c95e35d8.png)
 
 
 
@@ -11,7 +9,7 @@
 
 ---
 
-I'm a self-taught full-stack developer with focus on front-end who loves to learn, currently going from a law background into the tech field with knowledge in the tecnologies listed in the toolbox below. 
+I'm a <b>self-taught full-stack developer with focus on front-end</b> who loves to learn, currently going from a law background into the tech field with knowledge in the tecnologies listed in the toolbox below. 
 
 Passionate about design, problem solving and web development.
 
