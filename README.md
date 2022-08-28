@@ -8,7 +8,7 @@
 
 ---
 
-I'm a <b>self-taught full-stack developer with focus on front-end</b> who loves to learn, currently going from a law background into the tech field with knowledge in the tecnologies listed in the toolbox below. 
+I'm a <b>self-taught full-stack developer with focus on front-end</b> who loves to learn, went from a Law background into the tech field with knowledge in the tecnologies listed in the toolbox below. 
 
 Passionate about design, problem solving and web development.
 
