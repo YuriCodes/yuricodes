@@ -34,11 +34,11 @@ Looking forward to reach and help 🐣newbies🐣 by sharing my journey on [Twit
 
 Don't hesitate to contact me! 😄
 --- 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricodes&hide=ruby,shell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Yuricodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuricodes&show_icons=true&theme=radical)
 
-
+-->
 
 
 <!--
